@@ -6,6 +6,7 @@
 	<artifactId>mockery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	<description>Using mock objects using different API</description>
 
 	<name>mockery</name>
 	<url>http://maven.apache.org</url>
