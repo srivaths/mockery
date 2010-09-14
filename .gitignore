@@ -1,0 +1,7 @@
+# Exclude Eclipse workspace artifacts
+.DS_Store
+.classpath
+.project
+.settings/
+# All files in the target directory & below
+target/*
